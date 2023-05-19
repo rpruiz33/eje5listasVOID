@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1683384659 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\datos.c
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+
+1683384531 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\datos.h
+	"dispositivos.h"
+
+1683394445 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\dispositivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"dispositivos.h"
+
+1683392634 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\dispositivos.h
+
+1683147846 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1683292546 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fecha.h"
+
+1683147846 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\fecha.h
+
+1683394814 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	"persona.h"
+	"dispositivos.h"
+
+1683390897 c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\persona.h
+	"datos.h"
+
+1683394883 source:c:\users\beto\documents\finales hechos 2023\final mayo2022\eje 5 listas ayed\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
+1684460908 source:c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\datos.c
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+
+1684370758 c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\datos.h
+	"gente.h"
+	"dispositivos.h"
+
+1684398971 c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\dispositivos.h
+
+1684398978 source:c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\dispositivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"dispositivos.h"
+
+1684371254 c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\persona.h
+	"datos.h"
+
+1683292548 source:c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fecha.h"
+
+1683147848 c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\fecha.h
+
+1684505516 source:c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\gente.c
+	<stdio.h>
+	<stdlib.h>
+	"dispositivos.h"
+	"gente.h"
+
+1684329824 c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\gente.h
+
+1684505320 source:c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"datos.h"
+	"persona.h"
+	"dispositivos.h"
+
+1684461012 source:c:\users\casar\onedrive\escritorio\finales hechos 2023\final mayo2022\eje 5 listas ayed\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+
